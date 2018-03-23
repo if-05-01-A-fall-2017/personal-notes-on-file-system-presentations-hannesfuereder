@@ -11,10 +11,10 @@ Seek: Get Parameter to jump to the specific place
 Remove: just free the blocks
 
 Danninger:
-Description Block: 
+Description Block
 Content Block
 Free Block Table
-Sub Desc Block:
+Sub Desc Block
 Seek: Calculate and jump to the specific point
 
 Thomas:
